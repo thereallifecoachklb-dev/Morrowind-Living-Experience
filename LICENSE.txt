@@ -1,0 +1,68 @@
+# MORROWIND LIVING EXPERIENCE (MLX)
+## Custom Software License — Version 1.0
+
+Copyright © 2026 Keith Burns.
+
+All rights reserved except as expressly granted below.
+
+### 1. Permitted Use
+
+Users are granted a non-exclusive, royalty-free license to:
+
+- Download, install and use MLX for personal, non-commercial gameplay.
+- Inspect and study the source code.
+- Modify the software for private, personal use.
+- Conduct compatibility and performance testing.
+- Report bugs and submit suggestions.
+- Submit proposed improvements to the project maintainer.
+
+### 2. Restrictions
+
+Without prior written permission from the project maintainer, users may not:
+
+- Redistribute MLX through unauthorized distribution channels.
+- Publish modified or derivative versions as independent releases.
+- Incorporate protected MLX source code into other publicly distributed modifications.
+- Sell, sublicense or commercially distribute MLX or its derivatives.
+- Remove copyright notices, attribution or licensing information.
+- Misrepresent authorship or claim official affiliation with MLX.
+
+### 3. Compatibility
+
+Independent compatibility patches that do not reproduce or redistribute protected MLX code are permitted.
+
+### 4. Contributions
+
+Contributions are voluntary. Contributors retain ownership of their contributions but grant the project maintainer a non-exclusive, perpetual, worldwide, royalty-free license to use, modify and distribute submitted contributions as part of MLX.
+
+Contributors must have permission to submit the material they provide.
+
+### 5. GitHub Hosting
+
+This license does not restrict rights expressly granted under GitHub's applicable Terms of Service, including platform-supported viewing and forking.
+
+Such rights do not constitute permission to independently distribute modified MLX releases outside those terms.
+
+### 6. Third-Party Software
+
+MLX is an independently developed modification for The Elder Scrolls III: Morrowind.
+
+Morrowind, MWSE, Skills Module, Ashfall, Morrowind Crafting and other compatible modifications remain subject to their respective ownership and licensing terms.
+
+This license applies only to material that the MLX project has the legal right to license.
+
+### 7. Disclaimer
+
+MLX is provided "AS IS," without warranty of any kind, express or implied.
+
+To the extent permitted by applicable law, the project maintainer shall not be liable for damages, lost save data, incompatibilities or other consequences arising from the use of this software.
+
+Users are responsible for maintaining appropriate backups.
+
+### 8. Permission Requests
+
+Requests for redistribution, derivative releases, commercial use or other permissions beyond those granted above must be directed to the project maintainer.
+
+**Morrowind Living Experience**
+
+*Experience through living, not grinding.*
