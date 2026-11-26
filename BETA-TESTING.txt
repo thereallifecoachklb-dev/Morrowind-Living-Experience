@@ -1,0 +1,30 @@
+MLX 0.9.0 — PUBLIC BETA TESTING
+
+Play your character normally. Do not grind solely to reach a test threshold.
+The goal is slower, meaningful progression, including noncombat lifestyles.
+
+Please report:
+- Game / MWSE / MGE XE versions, installed MLX version and other relevant mods.
+- New character or existing save; race/class and starting location if relevant.
+- What happened, what you expected, and exact steps to reproduce it.
+- XP before/after, level and pending skill points where applicable.
+- Screenshots and MWSE.log from the affected session (remove private details).
+- Whether the issue repeats on reloading a separate test save.
+
+Priority checks:
+1. First and second complete level-up cycles, including save/reload persistence.
+2. Native attributes/health, allocation and ordinary skill colors/ratings.
+3. Paid training and skill books, duplicate rewards and unexpected XP sources.
+4. Custom skills, optional integrations and characters without those mods.
+5. Modded journal completion, exploration and books from other plugins.
+6. Balance: how long did a level take, and what was the character doing?
+7. MCM, marker visibility and menu scaling at your resolution.
+
+If allocation fails, keep a separate save and attach the log. F9 only opens
+existing pending allocations; it does not grant points. Do not use console
+commands to compensate before recording the failure.
+
+Individual XP handlers, native advancement, allocation and MCM have been tested
+by the developer in one modded environment. A fresh survival character has been
+played through the island escape at level one. Broader compatibility and full
+successive advancement remain open beta objectives.

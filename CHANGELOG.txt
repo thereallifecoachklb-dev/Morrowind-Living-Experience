@@ -1,0 +1,12 @@
+0.9.0 Public Beta
+- Public documentation and test guide.
+- Removed test-character-only F10 point restoration; F9 retained.
+- Updated MCM and advancement startup version labels.
+- No changes to XP rates or permanent skill-write logic since 0.2.8.
+
+0.2.8: Ingredient discovery reduced to 1 XP.
+0.2.7: Custom and legacy crafting skill awards reduced to 5 XP.
+0.2.6: MCM sidebar visibility fixed.
+0.2.5: Permanent skill writes corrected with tes3.modStatistic.
+0.2.x: Native advancement, skill allocation and recovery testing.
+0.1.x: Experience sources, inventory marker, notifications and progression control.
